@@ -28,4 +28,4 @@ This is the model card for the StarVector model, a 🤗 transformers model. Star
 |starvector-1b-im2svg-GGUF| [link](https://huggingface.co/mod479711/starvector-1b-im2svg-GGUF)  |
 |starvector-8b-im2svg-GGUF| [link](https://huggingface.co/mod479711/starvector-8b-im2svg-GGUF)  |
 
-[Llama.cpp for Starvector](https://github.com/mod47971/llama.cpp-advanced_arch)
+##[Llama.cpp for Starvector](https://github.com/mod47971/llama.cpp-advanced_arch)
