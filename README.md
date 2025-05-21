@@ -25,6 +25,6 @@ This is the model card for the StarVector model, a 🤗 transformers model. Star
 
 | Model             | HF | 
 |--------------------|-----------|
-|starvector-1b-im2svg-GGUF| [0.942](https://huggingface.co/mod479711/starvector-1b-im2svg-GGUF)     |
-
+|starvector-1b-im2svg-GGUF| [link](https://huggingface.co/mod479711/starvector-1b-im2svg-GGUF)     |
+|starvector-8b-im2svg-GGUF| [link](https://huggingface.co/mod479711/starvector-8b-im2svg-GGUF)     |
 
